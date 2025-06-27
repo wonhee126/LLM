@@ -1,0 +1,11 @@
+# CSV 파일 무시
+*.csv
+
+# xlsx 파일 무시
+*.xlsx
+
+# Jupyter Notebook checkpoint 파일 무시
+.ipynb_checkpoints/
+
+#pkl 파일 무시
+*.pkl
