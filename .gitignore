@@ -9,3 +9,6 @@
 
 #pkl 파일 무시
 *.pkl
+
+# api_setting.py 
+api_setting.py
